@@ -9,3 +9,5 @@
 04 [AgeCalculator Preview](https://mightguy9172.github.io/Web-Development-Project/04-AgeCalculator/index.html)
 
 05 [Calculator Preview](https://mightguy9172.github.io/Web-Development-Project/05-Calculator/index.html)
+
+06 [Drummer Preview](https://mightguy9172.github.io/Web-Development-Project/06-Drummer/index.html)
