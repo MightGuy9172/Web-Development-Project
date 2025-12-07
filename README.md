@@ -11,3 +11,5 @@
 05 [Calculator Preview](https://mightguy9172.github.io/Web-Development-Project/05-Calculator/index.html)
 
 06 [Drummer Preview](https://mightguy9172.github.io/Web-Development-Project/06-Drummer/index.html)
+
+07 [Currency-Converter Preview](https://mightguy9172.github.io/Web-Development-Project/07-Currency-Converter/index.html)

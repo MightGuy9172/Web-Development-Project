@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Oswald", sans-serif;
+}
+
+/* Layout */
+html,
+body {
+  height: 100%;
+}
+
+.main {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #00d4ff, #0086c7, #0e087a);
+  padding: 25px;
+}
+
+/* Card */
+.card {
+  width: 65%;
+  max-width: 950px;
+  background: #ffffff20;
+  backdrop-filter: blur(15px);
+  border-radius: 20px;
+  padding: 45px 60px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 35px;
+  box-shadow: 0px 8px 35px rgba(0, 0, 0, 0.25);
+}
+
+/* Heading */
+.head {
+  color: #fff;
+  font-size: 42px;
+  letter-spacing: 2px;
+}
+
+/* Image */
+img {
+  width: 26%;
+  object-fit: contain;
+  opacity: 0.9;
+  transition: 0.3s ease;
+}
+
+img:hover {
+  opacity: 1;
+}
+
+/* Input Containers */
+.input {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.from,
+.to {
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  text-align: center;
+}
+
+.input h1 {
+  font-size: 32px;
+  background: linear-gradient(90deg, #00d4ff, #9a34ff);
+  color: #fff;
+  padding: 8px 18px;
+  border-radius: 6px;
+  box-shadow: 0px 6px 14px rgba(0, 0, 0, 0.25);
+}
+
+#value,
+select {
+  font-size: 20px;
+  padding: 12px;
+  border-radius: 6px;
+  border: 2px solid #d2d2d2;
+  outline: none;
+  transition: 0.2s;
+}
+
+#value:focus,
+select:focus {
+  border-color: #00d4ff;
+}
+
+/* Result Title */
+.to h2 {
+  font-size: 30px;
+  color: #fff;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+}
+
+/* Button */
+button {
+  width: 45%;
+  padding: 14px;
+  font-size: 22px;
+  font-weight: 600;
+  border-radius: 12px;
+  background: linear-gradient(120deg, #00d4ff, #3ac72b);
+  border: none;
+  cursor: pointer;
+  box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.25);
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0px 10px 24px rgba(0, 0, 0, 0.35);
+  color: #fff;
+}
+
+/* Responsive */
+@media (max-width: 767px) {
+  .card {
+    width: 95%;
+    padding: 30px 25px;
+  }
+  .head {
+    font-size: 28px;
+  }
+  .input {
+    flex-direction: column;
+    gap: 25px;
+  }
+  .from,
+  .to {
+    width: 100%;
+  }
+  button {
+    width: 70%;
+    font-size: 18px;
+  }
+  img {
+    width: 30%;
+  }
+}
