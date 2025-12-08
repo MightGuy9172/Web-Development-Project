@@ -15,3 +15,5 @@
 07 [Currency-Converter Preview](https://mightguy9172.github.io/Web-Development-Project/07-Currency-Converter/index.html)
 
 08 [To-Do-List Preview](https://mightguy9172.github.io/Web-Development-Project/08-To-Do-List/index.html)
+
+09 [TicTacToe Preview](https://mightguy9172.github.io/Web-Development-Project/09-TicTacToe/index.html)
