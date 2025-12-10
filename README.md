@@ -17,3 +17,5 @@
 08 [To-Do-List Preview](https://mightguy9172.github.io/Web-Development-Project/08-To-Do-List/index.html)
 
 09 [TicTacToe Preview](https://mightguy9172.github.io/Web-Development-Project/09-TicTacToe/index.html)
+
+10 [Simon-Game Preview](https://mightguy9172.github.io/Web-Development-Project/10-Simon-Game/index.html)
