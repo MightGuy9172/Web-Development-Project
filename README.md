@@ -19,3 +19,5 @@
 09 [TicTacToe Preview](https://mightguy9172.github.io/Web-Development-Project/09-TicTacToe/index.html)
 
 10 [Simon-Game Preview](https://mightguy9172.github.io/Web-Development-Project/10-Simon-Game/index.html)
+
+11 [Weather Preview](https://mightguy9172.github.io/Web-Development-Project/11-Weather/index.html)
