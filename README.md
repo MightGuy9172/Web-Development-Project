@@ -21,3 +21,7 @@
 10 [Simon-Game Preview](https://mightguy9172.github.io/Web-Development-Project/10-Simon-Game/index.html)
 
 11 [Weather Preview](https://mightguy9172.github.io/Web-Development-Project/11-Weather/index.html)
+
+12 [Guess-Number Preview](https://mightguy9172.github.io/Web-Development-Project/12-Guess-Number/index.html)
+
+12 [Pig-Game Preview](https://mightguy9172.github.io/Web-Development-Project/13-Pig-Game/index.html)
