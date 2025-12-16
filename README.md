@@ -29,3 +29,5 @@
 14 [FootBall Preview](https://mightguy9172.github.io/Web-Development-Project/14-FootBall/index.html)
 
 15 [Bankly Preview](https://mightguy9172.github.io/Web-Development-Project/15-Bankly/index.html)
+
+16 [DOM-Bankly Preview](https://mightguy9172.github.io/Web-Development-Project/16-DOM-Bankly/index.html)
