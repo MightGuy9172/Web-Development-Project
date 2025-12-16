@@ -31,3 +31,5 @@
 15 [Bankly Preview](https://mightguy9172.github.io/Web-Development-Project/15-Bankly/index.html)
 
 16 [DOM-Bankly Preview](https://mightguy9172.github.io/Web-Development-Project/16-DOM-Bankly/index.html)
+
+17 [Mapty Preview](https://mightguy9172.github.io/Web-Development-Project/17-Mapty/index.html)
