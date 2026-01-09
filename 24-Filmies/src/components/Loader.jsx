@@ -1,0 +1,16 @@
+function Loader() {
+  return (
+    <div className="loader-container">
+      <svg
+        viewBox="0 0 16 16"
+        height="48"
+        width="48"
+        class="windows-loading-spinner"
+      >
+        <circle r="7px" cy="8px" cx="8px"></circle>
+      </svg>
+    </div>
+  );
+}
+
+export default Loader;
